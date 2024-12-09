@@ -11,3 +11,13 @@ A collection of Design Systems for Figma from all over the globe 🌎 backed by 
 ### [Spline](https://spline.design/)
 
 A 3D design and collaboration tool.
+
+## Inspiration 👀
+
+### [Joseph Website](https://www.josephberlin.de/en)
+
+### [Robb's site](https://robbowen.digital/)
+
+### [State of JS](https://2021.stateofjs.com/en-US/libraries/front-end-frameworks/)
+
+Beautiful site althought just presenting visualistions.
